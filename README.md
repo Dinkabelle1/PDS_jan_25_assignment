@@ -23,9 +23,10 @@ This section focused on analysing the dataset using pandas, matplotlib, seaborn 
 ## References 
 ChatGPT (2026). ChatGPT AI assistant. ChatGPT AI assistant response to the prompt [ breakdown the question and suggest the best approach using an examiners lens] (Personal Communication, April).
 
-Nick Walter(2024) Python for Non-Programmers [LinkedIn Learning].
-Available at: https://www.linkedin.com/learning/python-for-non-programmers?u=56744785 (Accessed: April). 
+Hunt, J. (2023) A beginners guide to python 3 Programming[online]. 2nd ed.Cham : Springer International Publishing. [Accessed: March-May 2026]. 
 
-Microsoft Copilot (2026). Copilot AI assistant. Copilot AI assistant response to the prompt [ debug and explain the following error message and suggest a possible fix] (Personal Communication, May).
+Nick Walter(2024) Python for Non-Programmers [LinkedIn Learning].Available at: https://www.linkedin.com/learning/python-for-non-programmers?u=56744785 [Accessed: April]. 
 
-Python Cheat Sheets #1-4 (2026). UFCFVQ-15-M Programming for Data Science. Available at: https://rl.talis.com/3/uwe/lists/11BF8AF7-50FA-8E3D-E25E-98B91EE286CE.html. (Accessed: March-May 2026). 
+Microsoft Copilot (2026). Copilot AI assistant. Copilot AI assistant response to the prompt [ debug and explain the error message and suggest a possible fix] (Personal Communication, May).
+
+Python Cheat Sheets #1-4 (2026). UFCFVQ-15-M Programming for Data Science. Available at: https://blackboard.uwe.ac.uk/ultra/courses. [Accessed: March-May 2026].
